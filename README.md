@@ -1,1 +1,1 @@
-RocketChat Deom for Red Hat Advanced Cluster Manager
+RocketChat Demo for Red Hat Advanced Cluster Manager
